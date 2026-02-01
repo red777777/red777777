@@ -13,7 +13,7 @@
 
 ### 🧑‍💼 About Me
 
-I'm Head of Region DACH at **[CRIF](https://www.crif.com)**, navigating rapid digital transformation with a clear focus: **people, teams, and organizations** matter more than any tech stack. I build meaningful business models powered by intelligent technology — AI agents, automation, and data-driven insights.
+I'm a freelance consultant and builder at **[bigdataheaven.com](https://bigdataheaven.com)**, focused on digital transformation with a clear philosophy: **people, teams, and organizations** matter more than any tech stack. I build meaningful business models powered by intelligent technology — AI agents, automation, and data-driven insights.
 
 Based in **Wiesbaden, Germany** 🇩🇪
 
